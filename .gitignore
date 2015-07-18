@@ -11,3 +11,5 @@
 /application/default/logs/*
 /application/default/install/*
 /application/default/cache/*
+/application/default/config/development/*
+/application/default/config/production/*
