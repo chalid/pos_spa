@@ -1,0 +1,504 @@
+msgid   " More Disposition"
+msgstr  ""
+
+#, php-format
+msgid   "%s already exists."
+msgstr  ""
+
+msgid   "(Please select)"
+msgstr  ""
+
+msgid   "Action"
+msgstr  ""
+
+msgid   "Action List"
+msgstr  ""
+
+msgid   "Add"
+msgstr  ""
+
+msgid   "Add Action"
+msgstr  ""
+
+msgid   "Add Department"
+msgstr  ""
+
+msgid   "Add Kategori"
+msgstr  ""
+
+msgid   "Add Mail"
+msgstr  ""
+
+msgid   "Agenda No"
+msgstr  ""
+
+msgid   "Alamat"
+msgstr  ""
+
+msgid   "Attachment"
+msgstr  ""
+
+msgid   "BERITA KSOP"
+msgstr  ""
+
+msgid   "Back"
+msgstr  ""
+
+msgid   "Back to Home"
+msgstr  ""
+
+msgid   "Back to Listing"
+msgstr  ""
+
+msgid   "Beranda"
+msgstr  ""
+
+msgid   "Berkas Lampiran"
+msgstr  ""
+
+msgid   "Buat Disposisi"
+msgstr  ""
+
+msgid   "Cancel"
+msgstr  ""
+
+msgid   "Catatan Disposisi"
+msgstr  ""
+
+msgid   "Change Password"
+msgstr  ""
+
+msgid   "Choose File"
+msgstr  ""
+
+msgid   "Concerning"
+msgstr  ""
+
+msgid   "Date"
+msgstr  ""
+
+msgid   "Dear To"
+msgstr  ""
+
+msgid   "Delete"
+msgstr  ""
+
+msgid   "Department"
+msgstr  ""
+
+msgid   "Department List"
+msgstr  ""
+
+msgid   "Department Name"
+msgstr  ""
+
+msgid   "Deskripsi"
+msgstr  ""
+
+msgid   "Deskripsi Dokumen"
+msgstr  ""
+
+msgid   "Deskripsi Kode Surat"
+msgstr  ""
+
+msgid   "Deskripsi Polling"
+msgstr  ""
+
+msgid   "Detail Division"
+msgstr  ""
+
+msgid   "Detail Dokumen"
+msgstr  ""
+
+msgid   "Detail Kode Surat"
+msgstr  ""
+
+msgid   "Disposisi Ke"
+msgstr  ""
+
+msgid   "Disposisi dari"
+msgstr  ""
+
+msgid   "Disposition"
+msgstr  ""
+
+msgid   "Disposition Forwarded"
+msgstr  ""
+
+msgid   "Disposition Status"
+msgstr  ""
+
+msgid   "Disposition To"
+msgstr  ""
+
+msgid   "Division"
+msgstr  ""
+
+msgid   "Division Name"
+msgstr  ""
+
+msgid   "Division name"
+msgstr  ""
+
+msgid   "Document Attachment"
+msgstr  ""
+
+msgid   "Document Description"
+msgstr  ""
+
+msgid   "Document Title"
+msgstr  ""
+
+msgid   "Email"
+msgstr  ""
+
+msgid   "Employee"
+msgstr  ""
+
+msgid   "File Lampiran"
+msgstr  ""
+
+msgid   "From"
+msgstr  ""
+
+msgid   "Full Name"
+msgstr  ""
+
+msgid   "GALERI FOTO"
+msgstr  ""
+
+msgid   "Gambar"
+msgstr  ""
+
+msgid   "Gender"
+msgstr  ""
+
+msgid   "HAK AKSES"
+msgstr  ""
+
+msgid   "Hapus"
+msgstr  ""
+
+msgid   "Hapus Data"
+msgstr  ""
+
+msgid   "Hapus Pesan"
+msgstr  ""
+
+msgid   "Hasil Suara"
+msgstr  ""
+
+msgid   "Hour"
+msgstr  ""
+
+msgid   "Inbox"
+msgstr  ""
+
+msgid   "Isi Berita"
+msgstr  ""
+
+msgid   "Isi Pesan"
+msgstr  ""
+
+msgid   "Jajak Pendapat"
+msgstr  ""
+
+msgid   "Jam"
+msgstr  ""
+
+msgid   "Jenis Dokumen"
+msgstr  ""
+
+msgid   "Jenis Surat"
+msgstr  ""
+
+msgid   "Judul Berita"
+msgstr  ""
+
+msgid   "Judul Dokumen"
+msgstr  ""
+
+msgid   "Judul Pesan"
+msgstr  ""
+
+msgid   "Judul Polling"
+msgstr  ""
+
+msgid   "KIRIM BERITA"
+msgstr  ""
+
+msgid   "Kategori Kode Surat"
+msgstr  ""
+
+msgid   "Keluar"
+msgstr  ""
+
+msgid   "Kepada"
+msgstr  ""
+
+msgid   "Keterangan"
+msgstr  ""
+
+msgid   "Kirim"
+msgstr  ""
+
+msgid   "Kirim Pesan"
+msgstr  ""
+
+msgid   "Kode Surat"
+msgstr  ""
+
+msgid   "Kontak"
+msgstr  ""
+
+msgid   "Lahir"
+msgstr  ""
+
+msgid   "Lampiran"
+msgstr  ""
+
+msgid   "Letter Date"
+msgstr  ""
+
+msgid   "Letter From"
+msgstr  ""
+
+msgid   "Letter No"
+msgstr  ""
+
+msgid   "List Disposisi"
+msgstr  ""
+
+msgid   "List Kategori Kode Surat"
+msgstr  ""
+
+msgid   "List Surat Masuk"
+msgstr  ""
+
+msgid   "Listing Inbox"
+msgstr  ""
+
+msgid   "Listing Kalendar"
+msgstr  ""
+
+msgid   "Listing Outbox"
+msgstr  ""
+
+msgid   "Listing Pesan"
+msgstr  ""
+
+msgid   "MANAJEMEN DOKUMEN"
+msgstr  ""
+
+msgid   "Mail"
+msgstr  ""
+
+msgid   "Mail Code"
+msgstr  ""
+
+msgid   "Mail From"
+msgstr  ""
+
+msgid   "Mail No"
+msgstr  ""
+
+msgid   "Mail Order"
+msgstr  ""
+
+msgid   "Mail Priority"
+msgstr  ""
+
+msgid   "Masuk"
+msgstr  ""
+
+msgid   "More Disposition"
+msgstr  ""
+
+msgid   "Nama Dokumen"
+msgstr  ""
+
+msgid   "Nama Folder"
+msgstr  ""
+
+msgid   "Nama Lengkap"
+msgstr  ""
+
+msgid   "Nama Tipe Dokumen"
+msgstr  ""
+
+msgid   "Name"
+msgstr  ""
+
+msgid   "New Password"
+msgstr  ""
+
+msgid   "No"
+msgstr  ""
+
+msgid   "No Agenda"
+msgstr  ""
+
+msgid   "No Dokumen"
+msgstr  ""
+
+msgid   "No Surat"
+msgstr  ""
+
+msgid   "No Surat Masuk"
+msgstr  ""
+
+msgid   "No file chosen"
+msgstr  ""
+
+msgid   "Note"
+msgstr  ""
+
+msgid   "Old Password"
+msgstr  ""
+
+msgid   "Organization"
+msgstr  ""
+
+msgid   "Organization Name"
+msgstr  ""
+
+msgid   "Outbox"
+msgstr  ""
+
+msgid   "PERMINTAAN BERITA"
+msgstr  ""
+
+msgid   "Perihal"
+msgstr  ""
+
+msgid   "Perintah"
+msgstr  ""
+
+msgid   "Phone No"
+msgstr  ""
+
+msgid   "Pilihan"
+msgstr  ""
+
+msgid   "Please Check Your Email Inbox"
+msgstr  ""
+
+msgid   "Prioritas Surat"
+msgstr  ""
+
+msgid   "Profile"
+msgstr  ""
+
+msgid   "Re-type New Password"
+msgstr  ""
+
+msgid   "Receive Date"
+msgstr  ""
+
+msgid   "Received Date"
+msgstr  ""
+
+msgid   "Record added"
+msgstr  ""
+
+msgid   "Record updated"
+msgstr  ""
+
+msgid   "Remark"
+msgstr  ""
+
+msgid   "Retype Password"
+msgstr  ""
+
+msgid   "Role"
+msgstr  ""
+
+msgid   "Roles"
+msgstr  ""
+
+msgid   "STATUS PERMINTAAN BERITA"
+msgstr  ""
+
+msgid   "Save"
+msgstr  ""
+
+msgid   "Short Name"
+msgstr  ""
+
+msgid   "Sub Action"
+msgstr  ""
+
+msgid   "Submit"
+msgstr  ""
+
+msgid   "Surat Dari"
+msgstr  ""
+
+msgid   "Surat Masuk"
+msgstr  ""
+
+msgid   "Tambah"
+msgstr  ""
+
+msgid   "Tambah Berkas Dokumen"
+msgstr  ""
+
+msgid   "Tambah Berkas Lampiran"
+msgstr  ""
+
+msgid   "Tanggal"
+msgstr  ""
+
+msgid   "Tanggal Diterima"
+msgstr  ""
+
+msgid   "Tanggal Keluar"
+msgstr  ""
+
+msgid   "Tanggal Masuk Keluar"
+msgstr  ""
+
+msgid   "Tanggal Surat"
+msgstr  ""
+
+msgid   "Telepon"
+msgstr  ""
+
+msgid   "Telpon"
+msgstr  ""
+
+msgid   "Tipe Dokumen"
+msgstr  ""
+
+msgid   "Trash"
+msgstr  ""
+
+msgid   "Type Dokumen"
+msgstr  ""
+
+msgid   "Untuk"
+msgstr  ""
+
+msgid   "Upload"
+msgstr  ""
+
+msgid   "Upload File"
+msgstr  ""
+
+msgid   "User Profile"
+msgstr  ""
+
+msgid   "User is unauthorized to access page"
+msgstr  ""
+
+msgid   "Username"
+msgstr  ""
+
+msgid   "Username/email or password not found"
+msgstr  ""
+
+msgid   "inbox"
+msgstr  ""
+
+msgid   "outbox"
+msgstr  ""

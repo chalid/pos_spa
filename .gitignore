@@ -1,0 +1,13 @@
+/bin/*
+/arch/*
+/config/*
+/index.php
+/data/*
+/install/*
+/licenses/*
+/system/*
+/themes/*
+/application/default/manifest.php
+/application/default/logs/*
+/application/default/install/*
+/application/default/cache/*
