@@ -43,6 +43,85 @@ class site extends app_crud_controller{
         $this->_data['therapis'] = $therapis;
 	}	
 
+    function test_print(){
+        //$lipsum = file_get_contents('ment.txt');
+        //xlog($lipsum);
+        //exit;
+    
+        /* open a connection to the printer */
+        //$printer = printer_open("Epson LX-310");
+        
+        /* write the text to the print job */
+       // printer_write($printer, $lipsum);
+        
+        /* close the connection */
+       // printer_close($printer);
+        $data = array();
+        $data['employee'] = 'Vani';
+        $data['room'] = '204';
+        $data['order_no'] = '123456789';
+        $data['customer'] = 'Nanda';
+        $data['start_date'] = '19-07-2015 10:10:00';
+
+        $tmpdir = sys_get_temp_dir();   # ambil direktori temporary untuk simpan file.
+        $file =  tempnam($tmpdir, 'ctk');  # nama file temporary yang akan dicetak
+        $handle = fopen($file, 'w');
+        $condensed = Chr(27) . Chr(33) . Chr(4);
+        $bold1 = Chr(27) . Chr(69);
+        $bold0 = Chr(27) . Chr(70);
+        $initialized = chr(60).chr(64);
+        $condensed1 = chr(15);
+        $condensed0 = chr(18);
+        $Data  = $initialized;
+        $Data .= $condensed1;
+        //HEADER
+        $Data .= "==============================================\n";
+        $Data .= " Order No     : ".$data['order_no']."\n";
+        $Data .= " Booking Date : " . $data['start_date'] . "\n";
+        $Data .= " Customer     : " . $data['customer'] . "\n";
+        $Data .= " Therapis     : " . $data['employee'] . "\n";
+        $Data .= " =============================================\n";
+        $Data .= " Order Items                             Qty  \n";
+        $Data .= "\n";
+        $Data .= "  1. ..................................  .....\n";
+        $Data .= "\n";
+        $Data .= "  2. ..................................  .....\n";
+        $Data .= "\n";
+        $Data .= "  3. ..................................  .....\n";
+        $Data .= "\n";
+        $Data .= "  4. ..................................  .....\n";
+        $Data .= "\n";
+        $Data .= "  5. ..................................  .....\n";
+        $Data .= "\n";
+        $Data .= " =============================================\n";
+        $Data .= "\n";
+        $Data .= "\n";
+        $Data .= "\n";
+        $Data .= "\n";
+        $Data .= "      (" . $data['customer'] . ")      \n";                 
+        //TOTAL
+        $Data .= "---------------------------------------------\n";
+        $Data .= "\n";
+        $Data .= "\n";
+        $Data .= "\n";
+        $Data .= "\n";
+        $Data .= "\n";
+        $Data .= "\n";
+        $Data .= "\n";
+        $Data .= "\n";
+        $Data .= " ==============================================\n";   //46
+        $Data .= " *                   TITIANG                  *\n";
+        $Data .= " *        TRADITIONAL MASSAGE & REFLEXY       *\n";
+        $Data .= " *   RUKO CILEGON CITY SQUARE, BLOK D NO. 1   *\n";
+        $Data .= " *     HP: 0877707017, PIN. BB: 2B2F99FZ      *\n";
+        $Data .= " *                                            *\n";
+        //FOOTER
+        fwrite($handle, $Data);
+        fclose($handle);
+        copy($file, "\\\\localhost\\EPSON LX-310");  # Lakukan cetak
+        unlink($file);
+    }
+
 }
 
 
